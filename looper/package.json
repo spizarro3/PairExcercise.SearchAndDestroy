@@ -1,0 +1,15 @@
+{
+  "name": "looper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "looper.js",
+  "scripts": {
+    "test": "mocha --watch ../looper"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.0"
+  }
+}
